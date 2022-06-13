@@ -1,1 +1,1 @@
-# Snort-Telegram-Bot-Application
+# Snort-Telegram-Bot-Application (Intrusion Detection System)
