@@ -109,9 +109,9 @@ Go to telegram-bot-for-snort folder and run the program
 ```
 
 And then try to attack your device like ping or something else.
-Example
+Example :
 ```bash
-  ping 192.168.56.101
+  ping 192.168.56.101 -t
 ```
 
 ### Screenshots
