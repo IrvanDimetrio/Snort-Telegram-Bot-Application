@@ -2,14 +2,14 @@
 
 #initialize
 initCount=0
-logs=/home/irvan/log.txt
+logs=/home/[username]/log.txt
 
 #File Embeded
 msg_caption=/tmp/telegram_msg_caption.txt
 
 #Chat ID and TOKEN Telegram
-chat_id="1087359811"
-token="5020486158:AAGwNruq1qMoNP307OzSXrBSXhbFndfO-SI"
+chat_id="[chat-id]"
+token="[BotToken]"
 
 #Send Alert
 function sendAlert
